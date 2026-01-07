@@ -3,7 +3,7 @@
 A Machine Learning project to predict customer attrition using a dataset of **440,000+ records**. This project focuses on building a statistically valid pipeline, ensuring data integrity, and deploying an interpretable model for business stakeholders.
 
 ## 🚀 Live Demo
-**[Link to your Hugging Face / Streamlit App Here]**
+**([Live Demo](https://huggingface.co/spaces/Ravichandrachilde/fact-checked-news-detector))**
 
 ## 📌 Project Overview
 The goal of this project is to identify customers at risk of churning so businesses can proactively intervene.
@@ -28,7 +28,7 @@ Using SHAP (SHapley Additive exPlanations), we identified the primary drivers of
 
 ### 1. Clone the Repo
 ```bash
-git clone [https://github.com/your-username/customer-churn-prediction.git](https://github.com/your-username/customer-churn-prediction.git)
+git clone [https://github.com/Ravichandrachilde/customer-churn-prediction.git](https://github.com/Ravichandrachilde/customer-churn-prediction.git)
 cd customer-churn-prediction
 ```
 
@@ -44,7 +44,7 @@ streamlit run app.py
 
 ## 📂 Project Structure
 ```
-├── data/                # Raw training data (Test.csv excluded due to data quality issues)
+├── data/                # Raw training data 
 ├── notebooks/           # Jupyter Notebooks for EDA and Model Training
 ├── src/                 # Source code for the Streamlit application
 ├── Dockerfile           # Docker configuration for deployment
