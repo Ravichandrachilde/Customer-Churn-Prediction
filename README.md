@@ -3,7 +3,7 @@
 A Machine Learning project to predict customer attrition using a dataset of **440,000+ records**. This project focuses on building a statistically valid pipeline, ensuring data integrity, and deploying an interpretable model for business stakeholders.
 
 ## 🚀 Live Demo
-**([Live Demo](https://huggingface.co/spaces/Ravichandrachilde/fact-checked-news-detector))**
+**([Live Demo](https://huggingface.co/spaces/Ravichandrachilde/Churn-app))**
 
 ## 📌 Project Overview
 The goal of this project is to identify customers at risk of churning so businesses can proactively intervene.
